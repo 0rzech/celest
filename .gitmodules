@@ -1,0 +1,3 @@
+[submodule "packages/corks"]
+	path = packages/corks
+	url = https://github.com/celest-dev/corks
