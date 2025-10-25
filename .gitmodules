@@ -1,3 +1,6 @@
 [submodule "packages/corks"]
 	path = packages/corks
 	url = https://github.com/celest-dev/corks
+[submodule "packages/cedar"]
+	path = packages/cedar
+	url = https://github.com/celest-dev/cedar-dart
